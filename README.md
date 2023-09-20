@@ -1,3 +1,3 @@
-# live url : https://uruguaj.github.io/mentorqr.github.io/
+# live url : https://uruguaj.github.io/frontend-mentor-qr/
 
 ##This is project from Frontend Mentor
